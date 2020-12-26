@@ -4,6 +4,7 @@ Simple Portfolio Website (Beginner level)
 
 Technologies: Visual Studio Code
 Language: HTML, CSS, Bootstrap
+Images: Google
 
 Some Discriptions :
 1) X-UA-Compatible Meta Tag Description and Uses:
