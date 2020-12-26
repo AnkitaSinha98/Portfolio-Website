@@ -11,12 +11,15 @@ Simple Portfolio Website (Beginner level)
 ## Uses:
 Internal css used and div tag.
 
-## Add: 
-### for jquery,bootstrap,javascript and popper or used the resource folder
+## Add (header): 
+Bootrap 4 CDN Links
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+### for jquery,bootstrap,javascript and popper or use the resource folder (externally by providing the location of the files in your device)
 
 ## Some Discriptions :
 #### 1) X-UA-Compatible Meta Tag Description and Uses:
