@@ -2,7 +2,7 @@
 Simple Portfolio Website (Beginner level)
 
 
-## Technologies: 
+## Technology: 
    Visual Studio Code
 ## Language: 
    HTML, CSS, Bootstrap
