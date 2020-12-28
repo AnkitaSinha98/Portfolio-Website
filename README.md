@@ -9,7 +9,7 @@ Simple Portfolio Website (Beginner level)
 ### Image Cerdit: Google
 
 ## Uses:
-Internal css used and div tag.
+Internal and inline css used and div tag.
 
 ## Add (header): 
 Bootrap 4 CDN Links
